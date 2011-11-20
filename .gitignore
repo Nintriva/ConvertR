@@ -1,0 +1,9 @@
+*.cfg
+*.properties
+/bin
+.classpath
+.project
+/gen
+
+
+
